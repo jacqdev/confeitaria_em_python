@@ -55,3 +55,14 @@ It was developed with a focus on clean code, automated testing, and continuous i
 - 🐳 Set up a **Docker** environment for easier deployment.  
 - 📦 Publish package on **PyPI** for installation via `pip`.  
 - 🔒 Improve authentication and application security.  
+---
+
+## 📜 Licença / License
+
+Este projeto está licenciado sob os termos da **MIT License**.  
+Isso significa que você pode usar, copiar, modificar, mesclar, publicar e distribuir livremente, desde que mantenha os créditos originais.
+
+---
+
+This project is licensed under the terms of the **MIT License**.  
+You are free to use, copy, modify, merge, publish, and distribute, provided that the original credits are preserved.
