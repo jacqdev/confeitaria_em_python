@@ -1,0 +1,21 @@
+data,produto,categoria,quantidade,preco
+2025-12-01,Bolo de Chocolate,Bolos,3,30.00
+2025-12-01,Brigadeiro,Doces,10,5.00
+2025-12-02,Quindim,Doces,5,6.50
+2025-12-02,Torta de Limão,Tortas,2,35.00
+2025-12-03,Cupcake de Baunilha,Cupcakes,12,4.50
+2025-12-03,Bomba de Chocolate,Doces,8,7.00
+2025-12-04,Bolo de Cenoura,Bolos,4,25.00
+2025-12-04,Pudim,Pudins,3,20.00
+2025-12-05,Brownie,Bolos,6,8.00
+2025-12-05,Trufa de Morango,Doces,15,3.50
+2025-12-06,Torta de Maçã,Tortas,2,32.00
+2025-12-06,Donut,Doces,20,4.00
+2025-12-07,Bolo Red Velvet,Bolos,2,45.00
+2025-12-07,Beijinho,Doces,12,4.50
+2025-12-08,Cheesecake,Tortas,3,40.00
+2025-12-08,Macaron,Doces,10,6.00
+2025-12-09,Bolo de Coco,Bolos,5,28.00
+2025-12-09,Sonho,Doces,8,5.50
+2025-12-10,Torta Holandesa,Tortas,2,38.00
+2025-12-10,Petit Gateau,Doces,6,12.00
