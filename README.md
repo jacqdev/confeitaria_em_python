@@ -1,33 +1,20 @@
- # confeitaria_em_python 🍰
+ # Confeitaria em Python 🍰
+![Coverage](https://codecov.io/gh/jacqdev/confeitaria_em_python/branch/main/graph/badge.svg)
 
-Projeto em Python para simular e analisar dados de faturamento de uma confeitaria.  
-Inclui coleta de dados, tratamento, testes automatizados e visualizações gráficas.
-
-## Como rodar
-```bash
-pip install -r requirements.txt
-python main.py
-pytest
-
+## 📌 Descrição
+Este projeto simula a gestão de uma confeitaria utilizando **Python** e bibliotecas de ciência de dados.  
+Ele permite carregar informações de vendas em CSV, calcular faturamento, prever demanda futura e visualizar métricas de desempenho.  
+Com uma suíte de testes completa, o projeto alcança **100% de cobertura**, garantindo confiabilidade e qualidade do código.
 
 ---
 
-### `main.py`
-```python
-import pandas as pd
-from src import coleta, tratamento, visualizacao
+## 🚀 Funcionalidades
+- 📊 **Análise de vendas**: cálculo de faturamento, agrupamento por produto e categoria.  
+- 🔮 **Forecast**: previsão de demanda com base em séries temporais.  
+- 🧹 **Tratamento de dados**: limpeza e padronização de datasets.  
+- 🎨 **Visualização**: gráficos claros e intuitivos para acompanhar resultados.  
+- ✅ **Testes automatizados**: cobertura total com `pytest` e `pytest-cov`.  
 
-# 1. Coleta de dados (simulação de faturamento mensal)
-df = coleta.simular_faturamento()
+---
 
-# 2. Tratamento dos dados
-df_limpo = tratamento.limpar_dados(df)
-
-# 3. Estatísticas básicas
-print("Média:", df_limpo["Faturamento"].mean())
-print("Máximo:", df_limpo["Faturamento"].max())
-print("Mínimo:", df_limpo["Faturamento"].min())
-
-# 4. Visualizações
-visualizacao.grafico_linha(df_limpo, "Mes", "Faturamento", "Faturamento Mensal")
-visualizacao.grafico_barras(df_limpo, "Mes", "Faturamento", "Comparativo Mensal")
+## 📂 Estrutura do projeto
