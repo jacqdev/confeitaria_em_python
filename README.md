@@ -36,3 +36,22 @@ It was developed with a focus on clean code, automated testing, and continuous i
 ---
 
 ## 📂 Estrutura / Structure
+---
+
+## 🛣️ Roadmap
+
+### Próximos Passos (Português)
+- 📈 Adicionar gráficos interativos para análise de vendas.  
+- 🧠 Implementar modelo de machine learning para previsão de demanda.  
+- 🌐 Criar interface web com **Streamlit** para visualização dos dados.  
+- 🐳 Configurar ambiente com **Docker** para facilitar deploy.  
+- 📦 Publicar pacote no **PyPI** para instalação via `pip`.  
+- 🔒 Melhorar autenticação e segurança da aplicação.  
+
+### Next Steps (English)
+- 📈 Add interactive charts for sales analysis.  
+- 🧠 Implement a machine learning model for demand forecasting.  
+- 🌐 Build a web interface with **Streamlit** for data visualization.  
+- 🐳 Set up a **Docker** environment for easier deployment.  
+- 📦 Publish package on **PyPI** for installation via `pip`.  
+- 🔒 Improve authentication and application security.  
